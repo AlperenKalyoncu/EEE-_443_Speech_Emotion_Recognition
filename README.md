@@ -12,7 +12,7 @@ The CREMA-D dataset is used with MFCC feature extraction.
 
 ### Report
 A detailed experimental report including methodology, hyperparameter tuning,
-and evaluation results is available in `/report`.
+and evaluation results is available in pdf.
 
 ### How to Run
-python train.py
+python main.py
